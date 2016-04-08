@@ -1,0 +1,10 @@
+
+1.1.0 - For TYPO3 LTS 6.2 and later
+-------------------------------------
+
+::
+
+	* Feature   - Added fe-editing for Events page
+	* Feature   - included cal_ts_service extension
+	* Feature   - included caldav extension
+
